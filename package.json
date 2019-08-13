@@ -1,0 +1,10 @@
+{
+  "name": "immer-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Marlow <christopher.marlow@shopify.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immer": "^3.2.0"
+  }
+}
